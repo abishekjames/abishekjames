@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Abishek</h1>
 <h3 align="center">I'm a Software Developer</h3>
 
-
+## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
@@ -48,20 +48,21 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   
   
-  
-  
-  </td><td valign="top" width="33%">
+ </td><td valign="top" width="33%">
    
  ### Other
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   
+  
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
-  
-</table>
 
- 
+
+  
+
+
+ </table
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
