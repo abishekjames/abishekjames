@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Abishek</h1>
 <h3 align="center">I'm a Software Developer</h3>
-<img src="https://www.itl.cat/wallview/ibTxwmw_download-developer-wallpaper-hd-free-wallpaper-for-hd"
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
