@@ -1,4 +1,4 @@
-<img src="https://github.com/abishekjames/My-Portfolio-Website/blob/main/assets/img/Developer%20(2).jpg">
+
 <!--### Hi there 👋 I'm Abishek.-->
 
 <!--
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Abishek</h1>
 <h3 align="center">I'm a Software Developer</h3>
+<img src="https://github.com/abishekjames/My-Portfolio-Website/blob/main/assets/img/Developer%20(2).jpg">
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -67,17 +68,6 @@ Here are some ideas to get you started:
 
 
  </table
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.github.com/abishekjames" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
-
-<a href="https://www.linkedin.com/in/abishekjames/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://instagram.com/_abishek_james_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+ 
+   📄 Checkout My [Portfolio](https://abishekjames.github.io/My-Portfolio-Website/)
+ 
