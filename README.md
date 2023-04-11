@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Abishek</h1>
 <h3 align="center">I'm a Software Developer</h3>
-<img src="https://github.com/abishekjames/My-Portfolio-Website/blob/main/assets/img/Developer_1.jpg">
+<img src="https://github.com/abishekjames/My-Portfolio-Website/blob/main/assets/img/linkedin.jpg">
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
